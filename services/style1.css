@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(190, 190, 190);
+}
+.form_1 {
+    display: flex;
+}
+.main {
+    display: flex;
+}
